@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&&&color=timeAuto&height=300&section=header&text=DAHYUNNE&fontSize=100&animation=fadeIn)  
 ### Hi there 👋   
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ryudh98"></br></br>
